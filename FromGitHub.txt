@@ -1,1 +1,2 @@
 added a new file to empty remote repository
+working locally after cloning and about to commit and push it
